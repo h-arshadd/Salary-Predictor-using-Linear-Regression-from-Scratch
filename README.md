@@ -16,6 +16,14 @@ It contains:
 - Visualizes the data points and the regression line
 - Interactive input for real-time salary prediction
 
+## Example Output
+
+### Regression Plot
+![Regression Plot](screenshots/plot.png)
+
+### Interactive Prediction
+![Interactive Prediction](screenshots/terminal.png)
+
 ## How to Use
 1. Download or clone this repository to your local machine.
 2. Place the dataset `Salary_Data.csv` in the project folder.
